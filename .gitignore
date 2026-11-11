@@ -20,3 +20,6 @@ venv/
 # Operating system
 .DS_Store
 Thumbs.db
+
+# Snake Game high score
+03-python-projects/Snake Game/data.txt
